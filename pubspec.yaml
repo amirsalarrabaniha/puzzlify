@@ -1,7 +1,6 @@
 name: puzzlify
 description: "A Flutter widget that turns any image into an interactive puzzle game."
 version: 0.0.1
-publish_to: "https://pub.dev"
 
 homepage: https://github.com/amirsalarrabaniha/puzzlify
 repository: https://github.com/amirsalarrabaniha/puzzlify
