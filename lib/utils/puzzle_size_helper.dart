@@ -38,7 +38,6 @@ Future<List<SizeModel>?> checkImage(Uint8List bytes) async {
     ];
   } else {
     return null;
-    print('Failed to decode image.');
   }
 }
 
