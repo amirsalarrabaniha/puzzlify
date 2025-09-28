@@ -1,5 +1,4 @@
 import 'dart:typed_data';
-import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:puzzlify/models/config_model.dart';
 import 'package:puzzlify/models/pieces_gallery_model.dart';

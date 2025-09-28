@@ -6,7 +6,7 @@ import 'package:puzzlify/models/size_model.dart';
 import 'package:puzzlify/puzzlify.dart';
 
 class PuzzlePage extends StatefulWidget {
-  PuzzlePage({super.key});
+  const PuzzlePage({super.key});
 
   @override
   State<PuzzlePage> createState() => _PuzzlePageState();
