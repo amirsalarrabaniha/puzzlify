@@ -3,9 +3,9 @@ description: "A Flutter widget that turns any image into an interactive puzzle g
 version: 0.0.1
 publish_to: "https://pub.dev"
 
-homepage: https://github.com/yourusername/puzzlify
-repository: https://github.com/yourusername/puzzlify
-issue_tracker: https://github.com/yourusername/puzzlify/issues
+homepage: https://github.com/amirsalarrabaniha/puzzlify
+repository: https://github.com/amirsalarrabaniha/puzzlify
+issue_tracker: https://github.com/amirsalarrabaniha/puzzlify/issues
 
 environment:
   sdk: ">=3.9.0 <4.0.0"
